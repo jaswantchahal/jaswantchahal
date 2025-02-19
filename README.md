@@ -1,5 +1,5 @@
 [![MasterHead](https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Flmblt1ca7zbfsyuckey3.gif)]()
-<h1 align="center">Hi :wave:, I'm Jaswant ingh</h1>
+<h1 align="center">Hi :wave:, I'm Jjaswant Singh</h1>
 <h3 align="center">:zany_face:Even dead I'm a web designer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">
@@ -10,7 +10,7 @@
 - :seedling: I’m currently learning **Nextjs**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/deepak-verma-9b46bb242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deepak-verma-9b46bb242" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jaswant-singh-2a254a15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deepak-verma-9b46bb242" height="30" width="40" /></a>
 <a href="https://instagram.com/deepak_verma80" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepak_verma80" height="30" width="40" /></a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
