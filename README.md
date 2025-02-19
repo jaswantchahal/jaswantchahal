@@ -5,12 +5,6 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak7009&label=Profile%20views&color=0e75b6&style=flat" alt="deepak7009" /> </p>
 - :telescope: I’m currently working on [Cloud-Billing](https://cloud-billing.vercel.app/)
-- :seedling: I’m currently learning **Nextjs**
-- :dancers: I’m looking to collaborate on **e-commerce site**
-- :male-technologist: All of my projects are available at [Deepak7009](Deepak7009)
-- :mailbox: How to reach me **deepak7009verma@gmail.com**
-- :page_facing_up: Know about my experiences [https://drive.google.com/drive/folders/1jg4KalyPcJQ9VmPsmy8NUtwGmqqpIbyh?usp=sharing](https://drive.google.com/drive/folders/1jg4KalyPcJQ9VmPsmy8NUtwGmqqpIbyh?usp=sharing)
-- :zap: Fun fact **I think I am funny**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/deepak-verma-9b46bb242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/deepak-verma-9b46bb242" height="30" width="40" /></a>
